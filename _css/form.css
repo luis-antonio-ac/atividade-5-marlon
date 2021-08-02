@@ -1,0 +1,26 @@
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+fieldset {
+    width: 96%;
+}
+
+textarea {
+    resize: none;
+}
+
+button {
+    width: 100px;
+    padding: 7px;
+    border: none;
+    color: #000;
+    background-color: #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
